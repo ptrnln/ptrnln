@@ -14,7 +14,7 @@
   - **App Academy** -  Full-stack web development *(Oct 2023 - Feb 2024)* 
   - **Chainshot** -  Ethereum-based decentralized applications *(May 2022 - June 2022)*
 
- - Well-versed in technologies including but not limited to: Adobe Photoshop, Adobe Flash, Canva, GIMP, etc.
+ - Well-versed in creative technologies including but not limited to: Adobe Photoshop, Adobe Flash, Canva, GIMP, etc.
 
  - Avid gamer, some of my favorite games at the moment are:
    - **Baldur's Gate 3**
