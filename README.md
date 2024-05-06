@@ -72,5 +72,5 @@
 
 ## Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=plasmanuke&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptrnln&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 <img src="https://myreadme.vercel.app/api/embed/ptrnln?panels=userstatistics,toprepositories,commitgraph" alt="reimaginedreadme" />
