@@ -73,4 +73,4 @@
 ## Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ptrnln&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
-![Ptrnln's GitHub stats](https://github-readme-stats.vercel.app/api?username=ptrnln&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api?username=ptrnln&show_icons=true&theme=transparent" alt="Peter Nolan's stats" />
